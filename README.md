@@ -1,8 +1,9 @@
-# thaismartcard-reader
+### thaismartcard-reader
 ---------------------------
-# node cardreaderserver.js
+#### node cardreaderserver.js
 
-enjoy !
+##### enjoy !
 
-thank lid https://github.com/wipcamp/10-smartcard-launcher 
-and https://github.com/sgnsys3/thaismartcardreader.js.git
+thank lib .....
+* https://github.com/wipcamp/10-smartcard-launcher 
+* https://github.com/sgnsys3/thaismartcardreader.js.git
